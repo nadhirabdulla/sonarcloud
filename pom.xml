@@ -14,6 +14,13 @@
 	<name>OrderMS</name>
 	<description>Order micro-service Springboot</description>
 	<properties>
+		
+		<sonar.projectKey>nadhirabdulla_sonarcloud
+</sonar.projectKey>
+<sonar.organization>nadhirabdulla</sonar.organization>
+<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		
+		
 		<java.version>11</java.version>
 	</properties>
 	
